@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-genai-explorers-team",
+  "private_key_id": "05984eca377591cf38147bca4c2e02d374b71227",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkdL6n8oSEUFJv\nEvTQKEzEMaoWib2dbk0bDruAQWAKl+ufYEff8nOLPnq5bSRsZrNyhmNMGlwfJCsU\nq49Piebv7X3apKpiLN3YRP+fnjGdFvuiaBiHZ+xfsdgzVBlQnQ9ML3/1sTy3ZDCT\nhrrLla+aVS3T7B7OoQmvgZLx21xdAbuyiLvb5dWK+o7aAcjboZnXmVW7dQxoDXdb\nm3kW62aAjWODGd/ONCk4rfgzxVHomR1lRlZZd+haAL450Hs4wj5tWazJb6I90fqe\nPLvJ/xfcHXGgoL+wUDm9VJe5qbx7IbdTrSK5/bcVAyK8+KitkDhGeDnRcPqDizrR\nvV4X1Q+hAgMBAAECggEAK41vYHLtfUz4R8oxY18I1XyBmu5ndOXdLak9Jr4pfSS2\nlcKdxkUjLGEjhy/MUZjxNQc6DNF+TBD8B8FXdq0Cp8+xYNHy/YT8S2YafF8crImF\nooEG3fU7uCwVIaLIAX1Wq8p4jMyfU8IIy0kG9xtxIeIk/NavYfFr6zrZe4uobki2\nLVm9i/iqijhryqvRBGr/LH7M8dzIYYVJbf2R32to3NP8vuyjHxCDnTkcKEjpxHoa\np5jFAXqtbKVBgQK4zwbXZoHRJf4X6Sd7wO704YYcuLnCkB4FzJrjfIZCDjhrM+H9\n+aZ05Hw60Ce9rkh5qSXHYH395w8lVCDzBeraavB2MQKBgQDetT4h5uW1z+9gIHD8\nRs5nEM4qTQeUzOoEChPMk06zwLBlHkbQU9WgI/KwBefSbcD0U3MsRvz+qKuMp13j\nph4kn0H7Vd0xC8t2wF0COhcUCyhjjabC8TJajoosdLi8RTl71rAwHt8SS0uPhgfk\n7lkj02FFea8qmzKKweVMLhYWfwKBgQC9CkXHmPy5Us5xLAfsnWE3gQbbLpB64EL4\nyV+OWcMpdBhTA/xFaH9q9yl5IN6WtIxMri7IN6eXhBl0RHJUSYujm86J3Yv7rdDe\n9MjslwBKKT5IwE8nmcJ61TQMr4R6sIzQd8ornYWq6xLC+X1rwRyFshTLjvckZ+3p\nIaJgD7MJ3wKBgCJekiIlQhoW5vhMyWMFgmEBhO+eR6c9IHhTHc8ahLDU8eQJEiCg\nb31xTsi/gJFHAtox7rpMkkqyuRbR1XmGb2xzb3lcPPCOw22mLjRjxp//QNJsT+oR\n0xWKneRSdxgHDuH/td0XRpHKMPULWDiKWBNhUcepCdFndhtX5Q0mp539AoGBAI0c\nkvQorlZEitgODyhAXqaJCS4p9y3SJAwEffEL7lQOVm35pqHFHIAjWfESaTXENoqy\n5zcL3G2M7VdOFK34bGVH1Agzud+4YxdbUHTTTyMM4HJ8I1ojO/pnFkB18IWJLsQa\n925RWss4SLwEcuwxrfHa+gztfmzNq9mAAu6EKZivAoGAYlpzFpbluLED5SD4vzlW\nXsKAE/j1Qdl/NRzmYPWN4M7tjKmE6jEi9J2K+eSTLI09liqFsT++doSZUfkdqCeJ\nciRHnLkFKlTKNPqAvhnle+SaFmmNYWIMo8yrRijxiUNvhSsgFUXI27CyJYIQMXfd\nNlWmTiTN+Ms1WW3W53h7Urw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "genai-explorers-team@gen-genai-explorers-team.iam.gserviceaccount.com",
+  "client_id": "105400115319106847479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/genai-explorers-team%40gen-genai-explorers-team.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
